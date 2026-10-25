@@ -1,0 +1,3 @@
+#include "../../MyVersionInfo.rc"
+
+MY_VERSION_INFO_DLL("Amine RAR Plugin for FAR Manager", "Amine RARFar")
